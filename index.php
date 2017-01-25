@@ -19,7 +19,7 @@
 			<p>game<input id="i6" type="text" name="game"></p>
 			<p> melee weapon<input id="i7" type="text" name="melee"></p>
 			<p>* magic is a valid weapon FYI</p>
-			<input type="submit" name="HIT IT">
+			<input type="submit" value="HIT IT">
 			</form>
 		</section>
 	</main>
