@@ -13,7 +13,7 @@
 			<form action='madlibget.php' method="get">
 			<p>any candy<input id="i2" type="text" name="candy"></p>
 			<p>an animal/object<input id="i1" type="text" name="object"></p>
-			<p>anything<input id="i3" type="text" name="anything"></p>
+			<p>verb<input id="i3" type="text" name="anything"></p>
 			<p>music genre<input id="i4" type="text" name="music"></p>
 			<p>weapon*<input id="i5" type="text" name="weapon"></p>
 			<p>game<input id="i6" type="text" name="game"></p>
